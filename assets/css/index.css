@@ -1,0 +1,120 @@
+body {
+  background-color: #2f3136;
+  color: #f2f2f2;
+  font-size: 14px;
+  font-family: "Exo 2", sans-serif;
+}
+
+.navbar {
+  background-color: #202225;
+  box-shadow: 0px 0px 3px 2px rgba(0,0,0,0.2);
+  min-height: 80px;
+}
+
+.nav-img {
+  border-radius: 7px;
+  margin-right: 12px;
+}
+
+.nav-link {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.jumbotron.header {
+  box-shadow: 0px 0px 3px 2px rgba(0,0,0,0.2);
+  background-color: #202225;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 300;
+  min-height: 600px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 200;
+}
+
+.jumbotron.header h1 {
+  font-size: 60px;
+}
+
+.header .scroll-down {
+  top: 120px;
+  position: relative;
+  font-size: 100px;
+  cursor: pointer;
+}
+
+.advantages .row {
+  margin: 60px 30px;
+}
+
+.advantages .row i {
+  font-size: 192px;
+  color: #7289da;
+  position: relative;
+}
+
+.rotate-left {
+  transform: rotateZ(-7deg);
+}
+
+.rotate-right {
+  transform: rotateZ(5deg);
+}
+
+.advantages .col.text-col h1 {
+  font-weight: 300;
+  font-size: 50px;
+}
+
+.advantages .col.text-col p {
+  font-size: 20px;
+}
+
+.advantages .col.text-col {
+  margin: 0 50px;
+}
+
+footer {
+  margin-top: 70px;
+  min-height: 100px;
+  background-color: #202225;
+  box-shadow: 0px 0px 3px 2px rgba(0,0,0,0.2);
+  padding: 10px;
+}
+
+footer .row {
+  margin: 40px 80px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #999;
+  display: block;
+}
+
+footer a:hover {
+  color: #ccc;
+  text-decoration: none;
+}
+
+ul {
+  font-size: 20px;
+}
+
+a {
+  color: #7289da;
+}
+
+a:hover {
+  color: #5865f2;
+  text-decoration: none;
+}
+
